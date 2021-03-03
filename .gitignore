@@ -89,5 +89,8 @@ ENV/
 .ropeproject
 
 # Documents and datafiles
-.pdf
-.fif
+*.pdf
+*.fif
+
+# directory where MNE source code is downloaded by pip
+src/

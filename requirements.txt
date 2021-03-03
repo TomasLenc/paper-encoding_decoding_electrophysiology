@@ -1,10 +1,10 @@
 setuptools
 numpy
-scikit-learn
 matplotlib
 pandas
--e git://github.com/mne-tools/mne-python.git#egg=mne
+-e git://github.com/mne-tools/mne-python.git@v0.19.0#egg=mne
 IPython
 tqdm
 scikit-image
 seaborn
+jupyter
